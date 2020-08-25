@@ -1,0 +1,14 @@
+{
+  "generator.skygrid": "Skygrid",
+
+  "command.skygrid.blocks.count": "\u00A76%s возможных блоков",
+  "command.skygrid.blocks.contains.true": "Блок может генерироваться в этом измерении с весом \u00A76%s",
+  "command.skygrid.blocks.contains.false": "\u00A74Блок не может быть сгенерирован в этом измерении",
+  "command.skygrid.blocks.exports.error": "При экспорте произошла ошибка",
+  "command.skygrid.blocks.exports.success": "Успешно экспортированы все возможные блоки",
+  "command.skygrid.blocks.exports.open": "Нажмите, чтобы открыть файл экспорта",
+
+  "argument.skygrid.config.invalid": "Не удалось найти конфигурацию skygrid для %s",
+
+  "gui.skygrid.category.probability": "Генерация"
+}
